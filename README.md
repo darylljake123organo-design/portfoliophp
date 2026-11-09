@@ -1,1 +1,2 @@
-# portfoliophp
+# Welcome! I'm Daryll Jake Organo
+# I am an Information Technology student who thrives at the intersection of technology, physical fitness, and visual editing. My academic journey in IT fuels my passion for building clean, efficient software and web solutions, while my dedication to training keeps me disciplined and goal-oriented. Beyond coding and coursework, I apply my skills in photo and video editing to bring visual concepts to life, blending analytical problem-solving with a creative edge to present fitness and digital projects effectively.
